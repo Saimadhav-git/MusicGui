@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MusicGui.iml" filepath="$PROJECT_DIR$/MusicGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acdemy.learnprogramming.common/acdemy.learnprogramming.common.iml" filepath="$PROJECT_DIR$/acdemy.learnprogramming.common/acdemy.learnprogramming.common.iml" />
+    </modules>
+  </component>
+</project>
